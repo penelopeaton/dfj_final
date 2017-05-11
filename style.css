@@ -5,6 +5,11 @@ h1 {
   line-height: 60px;
   font-family: 'Baloo', cursive;
 }
+.dek{
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 12px;
+}
 footer{
   font-family: 'Yrsa', serif;
   font-size: 14px;
