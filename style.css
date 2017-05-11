@@ -6,9 +6,11 @@ h1 {
   font-family: 'Baloo', cursive;
 }
 .dek{
-  padding-left: 120px;
-  padding-right: 120px;
+  padding-left: 220px;
+  padding-right: 220px;
   font-size: 12px;
+  text-align: center;
+  margin: 0;
 }
 footer{
   font-family: 'Yrsa', serif;
