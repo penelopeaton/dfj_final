@@ -5,7 +5,16 @@ h1 {
   line-height: 60px;
   font-family: 'Baloo', cursive;
 }
-
+footer{
+  font-family: 'Yrsa', serif;
+  font-size: 14px;
+  float: right;
+ text-align: center;
+  padding-right: 360px;
+  padding-bottom: 20px;
+  
+  
+}
 .cap {
   text-align: center;
   width: 400px;
