@@ -15,6 +15,7 @@ h1 {
 .letter{
   width: 30px;
   height: 40px;
+  padding-bottom: -10px;
 }
 footer{
   font-family: 'Yrsa', serif;
